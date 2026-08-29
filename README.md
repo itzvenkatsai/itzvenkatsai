@@ -20,5 +20,5 @@ and orchestrating multi-agent systems to improve productivity in software develo
 ## Let's Connect
 
 - Portfolio: https://itzvenkatsai.github.io
-- LinkedIn: _add your LinkedIn URL here_
+- LinkedIn: [linkedin.com/in/venkat-sai-akarapu](https://www.linkedin.com/in/venkat-sai-akarapu/)
 - Email: _add your email here_
